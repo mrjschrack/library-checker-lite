@@ -1,6 +1,1567 @@
 {
-  "last_updated": null,
-  "books_checked": 0,
-  "libraries_checked": 0,
-  "books": []
+  "last_updated": "2026-02-21T23:58:40.385251+00:00",
+  "books_checked": 40,
+  "libraries_checked": 4,
+  "books": [
+    {
+      "title": "Benjamin Franklin: An American Life",
+      "author": "Walter Isaacson",
+      "goodreads_id": "7949684438",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
+          "libby_url": "https://share.libbyapp.com/title/37703",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
+          "libby_url": "https://share.libbyapp.com/title/143530",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
+          "libby_url": "https://share.libbyapp.com/title/5677803",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "The Girl in the Spider's Web (Millennium, #4)",
+      "author": "David Lagercrantz",
+      "goodreads_id": "8236346728",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Girl+in+the+Spider+s+Web+Millennium+4+David+Lagercrantz",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Girl+in+the+Spider+s+Web+Millennium+4+David+Lagercrantz",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Girl+in+the+Spider+s+Web+Millennium+4+David+Lagercrantz",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Girl+in+the+Spider+s+Web+Millennium+4+David+Lagercrantz",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "goodreads_id": "7854337016",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "The Buffalo Hunter Hunter",
+      "author": "Stephen Graham Jones",
+      "goodreads_id": "8157796656",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
+          "libby_url": "https://share.libbyapp.com/title/11073684",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
+          "libby_url": "https://share.libbyapp.com/title/10916026",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
+          "libby_url": "https://share.libbyapp.com/title/10916026",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
+          "libby_url": "https://share.libbyapp.com/title/10916026",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "Death by Astonishment: Confronting the Mystery of the World's Strangest Drug (The DMT Book)",
+      "author": "Andrew R. Gallimore",
+      "goodreads_id": "8101961755",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Death+by+Astonishment+Confronting+the+Mystery+of+the+World+s+Strangest+Drug+The+DMT+Book+Andrew+R+Gallimore",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Death+by+Astonishment+Confronting+the+Mystery+of+the+World+s+Strangest+Drug+The+DMT+Book+Andrew+R+Gallimore",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Death+by+Astonishment+Confronting+the+Mystery+of+the+World+s+Strangest+Drug+The+DMT+Book+Andrew+R+Gallimore",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Death+by+Astonishment+Confronting+the+Mystery+of+the+World+s+Strangest+Drug+The+DMT+Book+Andrew+R+Gallimore",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "goodreads_id": "8097245085",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "available",
+          "search_url": "https://poudre.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "Consider Phlebas (Culture, #1)",
+      "author": "Iain M. Banks",
+      "goodreads_id": "8081001850",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Consider+Phlebas+Culture+1+Iain+M+Banks",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Consider+Phlebas+Culture+1+Iain+M+Banks",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Consider+Phlebas+Culture+1+Iain+M+Banks",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Consider+Phlebas+Culture+1+Iain+M+Banks",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Adrift: The Curious Tale of the Lego Lost at Sea",
+      "author": "Tracey Williams",
+      "goodreads_id": "8055390527",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Adrift+The+Curious+Tale+of+the+Lego+Lost+at+Sea+Tracey+Williams",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Adrift+The+Curious+Tale+of+the+Lego+Lost+at+Sea+Tracey+Williams",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Adrift+The+Curious+Tale+of+the+Lego+Lost+at+Sea+Tracey+Williams",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Adrift+The+Curious+Tale+of+the+Lego+Lost+at+Sea+Tracey+Williams",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice",
+      "author": "Shunryu Suzuki",
+      "goodreads_id": "8046157298",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Zen+Mind+Beginner+s+Mind+Informal+Talks+on+Zen+Meditation+and+Practice+Shunryu+Suzuki",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Zen+Mind+Beginner+s+Mind+Informal+Talks+on+Zen+Meditation+and+Practice+Shunryu+Suzuki",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Zen+Mind+Beginner+s+Mind+Informal+Talks+on+Zen+Meditation+and+Practice+Shunryu+Suzuki",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Zen+Mind+Beginner+s+Mind+Informal+Talks+on+Zen+Meditation+and+Practice+Shunryu+Suzuki",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Great Leads: The Six Easiest Ways To Start Any Sales Message",
+      "author": "Michael Masterson",
+      "goodreads_id": "7848077934",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Great+Leads+The+Six+Easiest+Ways+To+Start+Any+Sales+Message+Michael+Masterson",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Great+Leads+The+Six+Easiest+Ways+To+Start+Any+Sales+Message+Michael+Masterson",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Great+Leads+The+Six+Easiest+Ways+To+Start+Any+Sales+Message+Michael+Masterson",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Great+Leads+The+Six+Easiest+Ways+To+Start+Any+Sales+Message+Michael+Masterson",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Hidden Potential: The Science of Achieving Greater Things",
+      "author": "Adam M. Grant",
+      "goodreads_id": "7848073287",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "author": "Nick Bostrom",
+      "goodreads_id": "7794215201",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
+          "libby_url": "https://share.libbyapp.com/title/4975776",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "How to Lead When You're Not in Charge: Leveraging Influence When You Lack Authority",
+      "author": "Clay Scroggins",
+      "goodreads_id": "7786388154",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=How+to+Lead+When+You+re+Not+in+Charge+Leveraging+Influence+When+You+Lack+Authority+Clay+Scroggins",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=How+to+Lead+When+You+re+Not+in+Charge+Leveraging+Influence+When+You+Lack+Authority+Clay+Scroggins",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=How+to+Lead+When+You+re+Not+in+Charge+Leveraging+Influence+When+You+Lack+Authority+Clay+Scroggins",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=How+to+Lead+When+You+re+Not+in+Charge+Leveraging+Influence+When+You+Lack+Authority+Clay+Scroggins",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
+      "author": "Jonathan Haidt",
+      "goodreads_id": "7735218425",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
+          "libby_url": "https://share.libbyapp.com/title/3036539",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
+          "libby_url": "https://share.libbyapp.com/title/3036539",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
+          "libby_url": "https://share.libbyapp.com/title/3036539",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "The Life We Bury (Joe Talbert, #1; Detective Max Rupert, #1)",
+      "author": "Allen Eskens",
+      "goodreads_id": "7624404863",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Life+We+Bury+Joe+Talbert+1+Detective+Max+Rupert+1+Allen+Eskens",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Life+We+Bury+Joe+Talbert+1+Detective+Max+Rupert+1+Allen+Eskens",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Life+We+Bury+Joe+Talbert+1+Detective+Max+Rupert+1+Allen+Eskens",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Life+We+Bury+Joe+Talbert+1+Detective+Max+Rupert+1+Allen+Eskens",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The Hidden Life of Trees: What They Feel, How They Communicate: Discoveries from a Secret World",
+      "author": "Peter Wohlleben",
+      "goodreads_id": "7495209159",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+      "author": "David Grann",
+      "goodreads_id": "7462850274",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "goodreads_id": "7457705427",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
+          "libby_url": "https://share.libbyapp.com/title/784834",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
+          "libby_url": "https://share.libbyapp.com/title/784834",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "available",
+          "search_url": "https://poudre.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
+          "libby_url": "https://share.libbyapp.com/title/784834",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
+          "libby_url": "https://share.libbyapp.com/title/784834",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game",
+      "author": "Walker Deibel",
+      "goodreads_id": "7403710703",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Buy+Then+Build+How+Acquisition+Entrepreneurs+Outsmart+the+Startup+Game+Walker+Deibel",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Buy+Then+Build+How+Acquisition+Entrepreneurs+Outsmart+the+Startup+Game+Walker+Deibel",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Buy+Then+Build+How+Acquisition+Entrepreneurs+Outsmart+the+Startup+Game+Walker+Deibel",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Buy+Then+Build+How+Acquisition+Entrepreneurs+Outsmart+the+Startup+Game+Walker+Deibel",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life",
+      "author": "Sahil Bloom",
+      "goodreads_id": "7346112566",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
+          "libby_url": "https://share.libbyapp.com/title/10819488",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
+          "libby_url": "https://share.libbyapp.com/title/10714431",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
+          "libby_url": "https://share.libbyapp.com/title/10819488",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "Small Giants: Companies That Choose to Be Great Instead of Big",
+      "author": "Bo Burlingham",
+      "goodreads_id": "7335709464",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Small+Giants+Companies+That+Choose+to+Be+Great+Instead+of+Big+Bo+Burlingham",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Small+Giants+Companies+That+Choose+to+Be+Great+Instead+of+Big+Bo+Burlingham",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Small+Giants+Companies+That+Choose+to+Be+Great+Instead+of+Big+Bo+Burlingham",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Small+Giants+Companies+That+Choose+to+Be+Great+Instead+of+Big+Bo+Burlingham",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The Adventurous Bowman",
+      "author": "Saxton T. Pope",
+      "goodreads_id": "7199771912",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Adventurous+Bowman+Saxton+T+Pope",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Adventurous+Bowman+Saxton+T+Pope",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Adventurous+Bowman+Saxton+T+Pope",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Adventurous+Bowman+Saxton+T+Pope",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "author": "Charles T. Munger",
+      "goodreads_id": "7085766424",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Poor+Charlie+s+Almanack+The+Wit+and+Wisdom+of+Charles+T+Munger+Charles+T+Munger",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Poor+Charlie+s+Almanack+The+Wit+and+Wisdom+of+Charles+T+Munger+Charles+T+Munger",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Poor+Charlie+s+Almanack+The+Wit+and+Wisdom+of+Charles+T+Munger+Charles+T+Munger",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Poor+Charlie+s+Almanack+The+Wit+and+Wisdom+of+Charles+T+Munger+Charles+T+Munger",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Tripped: Nazi Germany, the CIA, and the Dawn of the Psychedelic Age",
+      "author": "Norman Ohler",
+      "goodreads_id": "6894756580",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "libby_url": "https://share.libbyapp.com/title/9974794",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Think Again: The Power of Knowing What You Don't Know",
+      "author": "Adam M. Grant",
+      "goodreads_id": "6833437642",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "goodreads_id": "6807339449",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "hold",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
+          "libby_url": "https://share.libbyapp.com/title/611419",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
+          "libby_url": "https://share.libbyapp.com/title/590824",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
+          "libby_url": "https://share.libbyapp.com/title/590824",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
+          "libby_url": "https://share.libbyapp.com/title/590824",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "The Book of Elsewhere",
+      "author": "Keanu Reeves",
+      "goodreads_id": "6729959760",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
+          "libby_url": "https://share.libbyapp.com/title/10318878",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
+          "libby_url": "https://share.libbyapp.com/title/10318878",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "The Lessons of History",
+      "author": "Will Durant",
+      "goodreads_id": "6634418272",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Lessons+of+History+Will+Durant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Lessons+of+History+Will+Durant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Lessons+of+History+Will+Durant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Lessons+of+History+Will+Durant",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Parasitic Mind: How Infectious Ideas Are Killing Common Sense",
+      "author": "Gad Saad",
+      "goodreads_id": "6439622449",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
+          "libby_url": "https://share.libbyapp.com/title/6008136",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "The Noticer: Sometimes, All a Person Needs Is a Little Perspective",
+      "author": "Andy Andrews",
+      "goodreads_id": "6427454624",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Noticer+Sometimes+All+a+Person+Needs+Is+a+Little+Perspective+Andy+Andrews",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Noticer+Sometimes+All+a+Person+Needs+Is+a+Little+Perspective+Andy+Andrews",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Noticer+Sometimes+All+a+Person+Needs+Is+a+Little+Perspective+Andy+Andrews",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Noticer+Sometimes+All+a+Person+Needs+Is+a+Little+Perspective+Andy+Andrews",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The Dogs of War",
+      "author": "Frederick Forsyth",
+      "goodreads_id": "6390628043",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
+          "libby_url": "https://share.libbyapp.com/title/233884",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+      "author": "Joshua Foer",
+      "goodreads_id": "6367493156",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
+          "libby_url": "https://share.libbyapp.com/title/584477",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
+          "libby_url": "https://share.libbyapp.com/title/584477",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
+          "libby_url": "https://share.libbyapp.com/title/349154",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
+          "libby_url": "https://share.libbyapp.com/title/584477",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "Gangster Redemption: How America's Most Notorious Jewel Robber Got Rich, Got Caught, and Got His Life Back on Track",
+      "author": "Larry Lawton",
+      "goodreads_id": "6235485252",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Gangster+Redemption+How+America+s+Most+Notorious+Jewel+Robber+Got+Rich+Got+Caught+and+Got+His+Life+Back+on+Track+Larry+Lawton",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Gangster+Redemption+How+America+s+Most+Notorious+Jewel+Robber+Got+Rich+Got+Caught+and+Got+His+Life+Back+on+Track+Larry+Lawton",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Gangster+Redemption+How+America+s+Most+Notorious+Jewel+Robber+Got+Rich+Got+Caught+and+Got+His+Life+Back+on+Track+Larry+Lawton",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Gangster+Redemption+How+America+s+Most+Notorious+Jewel+Robber+Got+Rich+Got+Caught+and+Got+His+Life+Back+on+Track+Larry+Lawton",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Trejo: My Life of Crime, Redemption, and Hollywood",
+      "author": "Danny Trejo",
+      "goodreads_id": "6235464643",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
+          "libby_url": "https://share.libbyapp.com/title/5962286",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "available",
+          "search_url": "https://poudre.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
+          "libby_url": "https://share.libbyapp.com/title/5962286",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Continental Reckoning: The American West in the Age of Expansion",
+      "author": "Elliott West",
+      "goodreads_id": "6102813991",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
+          "libby_url": "https://share.libbyapp.com/title/9491404",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
+          "libby_url": "https://share.libbyapp.com/title/9491404",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "The Last Indian War: The Nez Perce Story (Pivotal Moments in American History)",
+      "author": "Elliott West",
+      "goodreads_id": "6102813481",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Awareness: The Perils and Opportunities of Reality",
+      "author": "Anthony de Mello",
+      "goodreads_id": "5954479054",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The Moon Is a Harsh Mistress",
+      "author": "Robert A. Heinlein",
+      "goodreads_id": "5843064143",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
+          "libby_url": "https://share.libbyapp.com/title/121792",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
+          "libby_url": "https://share.libbyapp.com/title/3985120",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
+          "libby_url": "https://share.libbyapp.com/title/121792",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
+          "libby_url": "https://share.libbyapp.com/title/3985120",
+          "message": "Available to place hold"
+        }
+      ]
+    },
+    {
+      "title": "The Rebel's Apothecary: A Practical Guide to the Healing Magic of Cannabis, CBD, and Mushrooms",
+      "author": "Jenny Sansouci",
+      "goodreads_id": "5768907172",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Proving Einstein Right: The Daring Expeditions that Changed How We Look at the Universe",
+      "author": "S. James Gates Jr.",
+      "goodreads_id": "5725554629",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    }
+  ]
 }
