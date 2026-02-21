@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Library Checker Lite</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f4f8f7;
+      --bg2: #fdfbf5;
+      --text: #1b2423;
+      --muted: #5f6f6d;
+      --card: rgba(255, 255, 255, 0.85);
+      --border: rgba(40, 62, 58, 0.12);
+      --brand: #0f7a65;
+      --brand-2: #1453a1;
+      --ok: #0f8d48;
+      --hold: #b96a00;
+      --nf: #6d7688;
+      --err: #b42035;
+      --shadow: 0 12px 26px rgba(18, 55, 47, 0.12);
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      color: var(--text);
+      font-family: "Manrope", sans-serif;
+      background:
+        radial-gradient(1300px 500px at -10% -10%, #d7efe8 0%, transparent 60%),
+        radial-gradient(1000px 500px at 120% 0%, #fce8c7 0%, transparent 52%),
+        linear-gradient(180deg, var(--bg) 0%, var(--bg2) 100%);
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 18px 14px 30px;
+    }
+
+    .hero {
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 18px 16px;
+      background: linear-gradient(140deg, rgba(255, 255, 255, 0.9), rgba(247, 255, 253, 0.84));
+      backdrop-filter: blur(4px);
+      box-shadow: var(--shadow);
+      margin-bottom: 14px;
+      animation: rise 420ms ease-out;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: "Fraunces", serif;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1.08;
+      font-size: clamp(1.35rem, 5.8vw, 2.1rem);
+      color: #16322f;
+    }
+
+    .sub {
+      color: #3f5d59;
+      margin-top: 7px;
+      font-size: 0.95rem;
+    }
+
+    .meta {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+
+    .stats {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .pill {
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.72);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 0.8rem;
+      color: #344644;
+      font-weight: 600;
+    }
+
+    .controls {
+      margin-top: 12px;
+      display: flex;
+      justify-content: flex-start;
+    }
+
+    .toggle-btn {
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.72);
+      color: #2b3e3b;
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .toggle-btn.active {
+      color: #fff;
+      border-color: transparent;
+      background: linear-gradient(135deg, var(--brand), var(--brand-2));
+      box-shadow: 0 6px 16px rgba(20, 83, 161, 0.22);
+    }
+
+    .books {
+      display: grid;
+      gap: 10px;
+    }
+
+    .book {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--card);
+      backdrop-filter: blur(4px);
+      box-shadow: 0 5px 20px rgba(15, 54, 45, 0.07);
+      padding: 12px;
+      animation: rise 360ms ease-out;
+    }
+
+    .title {
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.25;
+    }
+
+    .author {
+      margin-top: 4px;
+      margin-bottom: 10px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .rows {
+      display: grid;
+      gap: 8px;
+    }
+
+    .row {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #fbfdfc;
+      padding: 9px 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      transition: transform 140ms ease;
+    }
+
+    .row:active {
+      transform: scale(0.995);
+    }
+
+    .left {
+      min-width: 0;
+    }
+
+    .lib {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: #243735;
+    }
+
+    .status {
+      margin-top: 4px;
+      display: inline-block;
+      font-size: 0.76rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      border-radius: 999px;
+      padding: 3px 8px;
+      border: 1px solid;
+    }
+
+    .status.available {
+      color: var(--ok);
+      background: rgba(15, 141, 72, 0.11);
+      border-color: rgba(15, 141, 72, 0.28);
+    }
+
+    .status.hold {
+      color: var(--hold);
+      background: rgba(185, 106, 0, 0.11);
+      border-color: rgba(185, 106, 0, 0.28);
+    }
+
+    .status.not_found, .status.unknown {
+      color: var(--nf);
+      background: rgba(109, 118, 136, 0.11);
+      border-color: rgba(109, 118, 136, 0.28);
+    }
+
+    .status.error {
+      color: var(--err);
+      background: rgba(180, 32, 53, 0.1);
+      border-color: rgba(180, 32, 53, 0.28);
+    }
+
+    .link {
+      text-decoration: none;
+      color: #fff;
+      border-radius: 10px;
+      background: linear-gradient(135deg, var(--brand), var(--brand-2));
+      box-shadow: 0 6px 16px rgba(20, 83, 161, 0.25);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      padding: 8px 11px;
+      white-space: nowrap;
+    }
+
+    .empty {
+      color: var(--muted);
+      font-size: 0.95rem;
+      text-align: center;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 18px;
+      background: rgba(255, 255, 255, 0.82);
+      box-shadow: var(--shadow);
+    }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(8px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <h1>Your Next Great Read</h1>
+      <div class="sub">A simple view of what is ready to borrow or hold from your libraries.</div>
+      <div class="meta" id="meta">Loading latest report...</div>
+      <div class="stats" id="stats"></div>
+      <div class="controls">
+        <button id="availableToggle" class="toggle-btn" type="button">Show available only: Off</button>
+      </div>
+    </header>
+
+    <main id="content" class="empty">Loading...</main>
+  </div>
+
+  <script>
+    function statusLabel(status) {
+      if (status === "available") return "Available now";
+      if (status === "hold") return "Can place hold";
+      if (status === "not_found") return "Not found";
+      if (status === "unknown") return "Status unclear";
+      return "Check failed";
+    }
+
+    function resultLink(check) {
+      return check.libby_url || check.search_url || "#";
+    }
+
+    function score(status) {
+      const rank = { available: 0, hold: 1, unknown: 2, not_found: 3, error: 4 };
+      return rank[status] ?? 99;
+    }
+
+    async function loadReport() {
+      const res = await fetch("./results.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("results.json not found yet.");
+      return res.json();
+    }
+
+    function statPills(data) {
+      const checks = (data.books || []).flatMap((b) => b.checks || []);
+      const available = checks.filter((c) => c.status === "available").length;
+      const holds = checks.filter((c) => c.status === "hold").length;
+      return [
+        `Books: ${data.books_checked || 0}`,
+        `Available: ${available}`,
+        `Hold options: ${holds}`,
+      ];
+    }
+
+    function render(data) {
+      const meta = document.getElementById("meta");
+      const stats = document.getElementById("stats");
+      const content = document.getElementById("content");
+      const availableOnly = document.getElementById("availableToggle").dataset.active === "true";
+
+      const last = data.last_updated ? new Date(data.last_updated).toLocaleString() : "unknown";
+      meta.textContent = `Last updated: ${last}`;
+      stats.innerHTML = statPills(data).map((x) => `<span class="pill">${x}</span>`).join("");
+
+      const filteredBooks = (data.books || []).filter((book) => {
+        if (!availableOnly) return true;
+        return (book.checks || []).some((c) => c.status === "available");
+      });
+
+      const books = filteredBooks.map((book) => {
+        const sortedChecks = [...(book.checks || [])].sort((a, b) => score(a.status) - score(b.status));
+        const rows = sortedChecks.map((check) => `
+          <div class="row">
+            <div class="left">
+              <div class="lib">${check.library_name}</div>
+              <div class="status ${check.status}">${statusLabel(check.status)}</div>
+            </div>
+            <a class="link" href="${resultLink(check)}" target="_blank" rel="noopener noreferrer">Open</a>
+          </div>
+        `).join("");
+
+        return `
+          <section class="book">
+            <h2 class="title">${book.title || ""}</h2>
+            <div class="author">${book.author || "Unknown author"}</div>
+            <div class="rows">${rows}</div>
+          </section>
+        `;
+      });
+
+      if (!books.length) {
+        content.className = "empty";
+        content.textContent = availableOnly
+          ? "No currently available books. Try turning the filter off."
+          : "No books found in the report yet.";
+        return;
+      }
+
+      content.className = "books";
+      content.innerHTML = books.join("");
+    }
+
+    const availableToggle = document.getElementById("availableToggle");
+    availableToggle.dataset.active = "false";
+    availableToggle.addEventListener("click", () => {
+      const next = availableToggle.dataset.active !== "true";
+      availableToggle.dataset.active = next ? "true" : "false";
+      availableToggle.textContent = `Show available only: ${next ? "On" : "Off"}`;
+      availableToggle.classList.toggle("active", next);
+      if (window.__reportData) render(window.__reportData);
+    });
+
+    loadReport().then((data) => {
+      window.__reportData = data;
+      render(data);
+    }).catch((err) => {
+      const meta = document.getElementById("meta");
+      const content = document.getElementById("content");
+      meta.textContent = "Report unavailable";
+      content.className = "empty";
+      content.textContent = `Could not load report: ${err.message}`;
+    });
+  </script>
+</body>
+</html>
