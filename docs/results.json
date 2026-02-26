@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T15:19:40.197032+00:00",
+  "last_updated": "2026-02-26T15:21:19.438737+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -27,10 +27,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
           "libby_url": "https://share.libbyapp.com/title/143530",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -144,10 +144,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
           "libby_url": "https://share.libbyapp.com/title/10916026",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -1049,10 +1049,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10318878",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1205,10 +1205,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
           "libby_url": "https://share.libbyapp.com/title/233884",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
