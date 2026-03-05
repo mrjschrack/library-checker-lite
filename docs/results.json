@@ -1,8 +1,164 @@
 {
-  "last_updated": "2026-03-02T15:16:33.083197+00:00",
+  "last_updated": "2026-03-05T15:18:57.574296+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
+    {
+      "title": "Accelerando",
+      "author": "Charles Stross",
+      "goodreads_id": "8410892396",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Accelerando+Charles+Stross",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Accelerando+Charles+Stross",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Accelerando+Charles+Stross",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Accelerando+Charles+Stross",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "Korolev: How One Man Masterminded the Soviet Drive to Beat America to the Moon",
+      "author": "James Harford",
+      "goodreads_id": "8408604850",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Korolev+How+One+Man+Masterminded+the+Soviet+Drive+to+Beat+America+to+the+Moon+James+Harford",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Korolev+How+One+Man+Masterminded+the+Soviet+Drive+to+Beat+America+to+the+Moon+James+Harford",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Korolev+How+One+Man+Masterminded+the+Soviet+Drive+to+Beat+America+to+the+Moon+James+Harford",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Korolev+How+One+Man+Masterminded+the+Soviet+Drive+to+Beat+America+to+the+Moon+James+Harford",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
+    {
+      "title": "The Wrong Stuff: How the Soviet Space Program Crashed and Burned",
+      "author": "John Strausbaugh",
+      "goodreads_id": "8408602960",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
+          "libby_url": "https://share.libbyapp.com/title/10180805",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
+          "libby_url": "https://share.libbyapp.com/title/10180805",
+          "message": "Available to borrow"
+        }
+      ]
+    },
+    {
+      "title": "Challenge to Apollo: The Soviet Union and the Space Race, 1945-1974",
+      "author": "Asif A. Siddiqi",
+      "goodreads_id": "8408602354",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Challenge+to+Apollo+The+Soviet+Union+and+the+Space+Race+1945+1974+Asif+A+Siddiqi",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Challenge+to+Apollo+The+Soviet+Union+and+the+Space+Race+1945+1974+Asif+A+Siddiqi",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Challenge+to+Apollo+The+Soviet+Union+and+the+Space+Race+1945+1974+Asif+A+Siddiqi",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Challenge+to+Apollo+The+Soviet+Union+and+the+Space+Race+1945+1974+Asif+A+Siddiqi",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
     {
       "title": "Benjamin Franklin: An American Life",
       "author": "Walter Isaacson",
@@ -113,10 +269,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -144,10 +300,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
           "libby_url": "https://share.libbyapp.com/title/10916026",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -518,10 +674,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
           "libby_url": "https://share.libbyapp.com/title/3036539",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
@@ -659,10 +815,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
           "libby_url": "https://share.libbyapp.com/title/9138206",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1236,10 +1392,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
           "libby_url": "https://share.libbyapp.com/title/349154",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
@@ -1402,162 +1558,6 @@
           "library_base_url": "https://marmot.overdrive.com",
           "status": "unknown",
           "search_url": "https://marmot.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        }
-      ]
-    },
-    {
-      "title": "Awareness: The Perils and Opportunities of Reality",
-      "author": "Anthony de Mello",
-      "goodreads_id": "5954479054",
-      "checks": [
-        {
-          "library_name": "Colorado Digital Consortium",
-          "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Denver Public Library",
-          "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Poudre Libraries",
-          "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Marmot Library Network",
-          "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=Awareness+The+Perils+and+Opportunities+of+Reality+Anthony+de+Mello",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        }
-      ]
-    },
-    {
-      "title": "The Moon Is a Harsh Mistress",
-      "author": "Robert A. Heinlein",
-      "goodreads_id": "5843064143",
-      "checks": [
-        {
-          "library_name": "Colorado Digital Consortium",
-          "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
-          "search_url": "https://coloradodc.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
-          "libby_url": "https://share.libbyapp.com/title/121792",
-          "message": "Available to borrow"
-        },
-        {
-          "library_name": "Denver Public Library",
-          "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
-          "search_url": "https://denver.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
-          "libby_url": "https://share.libbyapp.com/title/3985120",
-          "message": "Available to borrow"
-        },
-        {
-          "library_name": "Poudre Libraries",
-          "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
-          "search_url": "https://poudre.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
-          "libby_url": "https://share.libbyapp.com/title/121792",
-          "message": "Available to place hold"
-        },
-        {
-          "library_name": "Marmot Library Network",
-          "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
-          "search_url": "https://marmot.overdrive.com/search?query=The+Moon+Is+a+Harsh+Mistress+Robert+A+Heinlein",
-          "libby_url": "https://share.libbyapp.com/title/3985120",
-          "message": "Available to borrow"
-        }
-      ]
-    },
-    {
-      "title": "The Rebel's Apothecary: A Practical Guide to the Healing Magic of Cannabis, CBD, and Mushrooms",
-      "author": "Jenny Sansouci",
-      "goodreads_id": "5768907172",
-      "checks": [
-        {
-          "library_name": "Colorado Digital Consortium",
-          "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Denver Public Library",
-          "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Poudre Libraries",
-          "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Marmot Library Network",
-          "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=The+Rebel+s+Apothecary+A+Practical+Guide+to+the+Healing+Magic+of+Cannabis+CBD+and+Mushrooms+Jenny+Sansouci",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        }
-      ]
-    },
-    {
-      "title": "Proving Einstein Right: The Daring Expeditions that Changed How We Look at the Universe",
-      "author": "S. James Gates Jr.",
-      "goodreads_id": "5725554629",
-      "checks": [
-        {
-          "library_name": "Colorado Digital Consortium",
-          "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Denver Public Library",
-          "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Poudre Libraries",
-          "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Marmot Library Network",
-          "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=Proving+Einstein+Right+The+Daring+Expeditions+that+Changed+How+We+Look+at+the+Universe+S+James+Gates+Jr",
           "libby_url": null,
           "message": "Result found but status unclear"
         }
