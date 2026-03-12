@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-03-09T15:21:49.622738+00:00",
+  "last_updated": "2026-03-12T15:19:49.512843+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
+    {
+      "title": "Lifespan: Why We Age\u2015and Why We Don't Have To",
+      "author": "David A. Sinclair",
+      "goodreads_id": "8431175252",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Lifespan+Why+We+Age+and+Why+We+Don+t+Have+To+David+A+Sinclair",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Lifespan+Why+We+Age+and+Why+We+Don+t+Have+To+David+A+Sinclair",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://poudre.overdrive.com/search?query=Lifespan+Why+We+Age+and+Why+We+Don+t+Have+To+David+A+Sinclair",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "unknown",
+          "search_url": "https://marmot.overdrive.com/search?query=Lifespan+Why+We+Age+and+Why+We+Don+t+Have+To+David+A+Sinclair",
+          "libby_url": null,
+          "message": "Result found but status unclear"
+        }
+      ]
+    },
     {
       "title": "Accelerando",
       "author": "Charles Stross",
@@ -191,10 +230,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
           "libby_url": "https://share.libbyapp.com/title/5677803",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -261,18 +300,18 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -284,10 +323,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
           "libby_url": "https://share.libbyapp.com/title/11073684",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
@@ -620,10 +659,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
           "libby_url": "https://share.libbyapp.com/title/4975776",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -698,10 +737,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
           "libby_url": "https://share.libbyapp.com/title/3036539",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -768,10 +807,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -1072,10 +1111,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
           "libby_url": "https://share.libbyapp.com/title/9974794",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1361,10 +1400,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
           "libby_url": "https://share.libbyapp.com/title/233884",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1521,45 +1560,6 @@
           "search_url": "https://marmot.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
           "libby_url": "https://share.libbyapp.com/title/9491404",
           "message": "Available to borrow"
-        }
-      ]
-    },
-    {
-      "title": "The Last Indian War: The Nez Perce Story (Pivotal Moments in American History)",
-      "author": "Elliott West",
-      "goodreads_id": "6102813481",
-      "checks": [
-        {
-          "library_name": "Colorado Digital Consortium",
-          "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Denver Public Library",
-          "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Poudre Libraries",
-          "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Marmot Library Network",
-          "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=The+Last+Indian+War+The+Nez+Perce+Story+Pivotal+Moments+in+American+History+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
         }
       ]
     }
