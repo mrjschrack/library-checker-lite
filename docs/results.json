@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T15:33:29.040852+00:00",
+  "last_updated": "2026-03-19T15:19:38.078748+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -214,10 +214,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
           "libby_url": "https://share.libbyapp.com/title/37703",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
@@ -308,10 +308,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -339,10 +339,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
           "libby_url": "https://share.libbyapp.com/title/10916026",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
@@ -807,10 +807,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
@@ -854,10 +854,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
           "libby_url": "https://share.libbyapp.com/title/9138206",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1415,10 +1415,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
           "libby_url": "https://share.libbyapp.com/title/584477",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
@@ -1556,10 +1556,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/9491404",
+          "message": "Available to borrow"
         }
       ]
     }
