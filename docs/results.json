@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T15:35:08.534032+00:00",
+  "last_updated": "2026-03-30T15:34:57.041455+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -222,10 +222,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
           "libby_url": "https://share.libbyapp.com/title/143530",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -284,10 +284,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
@@ -300,10 +300,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -830,10 +830,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
           "libby_url": "https://share.libbyapp.com/title/9138206",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
@@ -854,10 +854,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
           "libby_url": "https://share.libbyapp.com/title/9138206",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1228,10 +1228,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10318878",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1244,10 +1244,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10318878",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
