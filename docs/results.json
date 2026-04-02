@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T15:34:57.041455+00:00",
+  "last_updated": "2026-04-02T15:25:27.308718+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -300,10 +300,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
@@ -1400,10 +1400,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
           "libby_url": "https://share.libbyapp.com/title/233884",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
