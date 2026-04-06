@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T15:25:27.308718+00:00",
+  "last_updated": "2026-04-06T15:18:22.940406+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -136,10 +136,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
           "libby_url": "https://share.libbyapp.com/title/10180805",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -791,10 +791,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
@@ -1111,10 +1111,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
           "libby_url": "https://share.libbyapp.com/title/9974794",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1228,10 +1228,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10318878",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1501,10 +1501,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
           "libby_url": "https://share.libbyapp.com/title/5962286",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1540,10 +1540,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
           "libby_url": "https://share.libbyapp.com/title/9491404",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
