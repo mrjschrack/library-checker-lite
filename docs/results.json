@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T16:07:32.238512+00:00",
+  "last_updated": "2026-04-30T16:21:31.183270+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -1322,10 +1322,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
           "libby_url": "https://share.libbyapp.com/title/6008136",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1415,10 +1415,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
           "libby_url": "https://share.libbyapp.com/title/584477",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
