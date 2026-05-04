@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-04-30T16:21:31.183270+00:00",
+  "last_updated": "2026-05-04T16:32:24.869211+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
+    {
+      "title": "City of Thieves",
+      "author": "David Benioff",
+      "goodreads_id": "8572428455",
+      "checks": [
+        {
+          "library_name": "Colorado Digital Consortium",
+          "library_base_url": "https://coloradodc.overdrive.com",
+          "status": "available",
+          "search_url": "https://coloradodc.overdrive.com/search?query=City+of+Thieves+David+Benioff",
+          "libby_url": "https://share.libbyapp.com/title/611883",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Denver Public Library",
+          "library_base_url": "https://denver.overdrive.com",
+          "status": "available",
+          "search_url": "https://denver.overdrive.com/search?query=City+of+Thieves+David+Benioff",
+          "libby_url": "https://share.libbyapp.com/title/611883",
+          "message": "Available to borrow"
+        },
+        {
+          "library_name": "Poudre Libraries",
+          "library_base_url": "https://poudre.overdrive.com",
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=City+of+Thieves+David+Benioff",
+          "libby_url": "https://share.libbyapp.com/title/169705",
+          "message": "Available to place hold"
+        },
+        {
+          "library_name": "Marmot Library Network",
+          "library_base_url": "https://marmot.overdrive.com",
+          "status": "hold",
+          "search_url": "https://marmot.overdrive.com/search?query=City+of+Thieves+David+Benioff",
+          "libby_url": "https://share.libbyapp.com/title/611883",
+          "message": "Available to place hold"
+        }
+      ]
+    },
     {
       "title": "Lifespan: Why We Age\u2015and Why We Don't Have To",
       "author": "David A. Sinclair",
@@ -214,10 +253,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
           "libby_url": "https://share.libbyapp.com/title/37703",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
@@ -815,10 +854,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1096,7 +1135,7 @@
       ]
     },
     {
-      "title": "Tripped: Nazi Germany, the CIA, and the Dawn of the Psychedelic Age",
+      "title": "Tripped: Nazi Germany, the CIA, and the Dawn of the Psychedelic Age \u2013 The Hidden Origins of MKUltra and the War on Drugs",
       "author": "Norman Ohler",
       "goodreads_id": "6894756580",
       "checks": [
@@ -1104,23 +1143,23 @@
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
           "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
-          "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
-          "libby_url": "https://share.libbyapp.com/title/9974794",
-          "message": "Available to borrow"
+          "status": "unknown",
+          "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
+          "libby_url": null,
+          "message": "Result found but status unclear"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
           "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "search_url": "https://poudre.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1128,7 +1167,7 @@
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
           "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
+          "search_url": "https://marmot.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         }
@@ -1244,10 +1283,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10318878",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1322,10 +1361,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
           "libby_url": "https://share.libbyapp.com/title/6008136",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1431,10 +1470,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
           "libby_url": "https://share.libbyapp.com/title/349154",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
@@ -1521,45 +1560,6 @@
           "search_url": "https://marmot.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
           "libby_url": null,
           "message": "Result found but status unclear"
-        }
-      ]
-    },
-    {
-      "title": "Continental Reckoning: The American West in the Age of Expansion",
-      "author": "Elliott West",
-      "goodreads_id": "6102813991",
-      "checks": [
-        {
-          "library_name": "Colorado Digital Consortium",
-          "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Denver Public Library",
-          "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
-          "search_url": "https://denver.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
-          "libby_url": "https://share.libbyapp.com/title/9491404",
-          "message": "Available to borrow"
-        },
-        {
-          "library_name": "Poudre Libraries",
-          "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
-          "libby_url": null,
-          "message": "Result found but status unclear"
-        },
-        {
-          "library_name": "Marmot Library Network",
-          "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
-          "search_url": "https://marmot.overdrive.com/search?query=Continental+Reckoning+The+American+West+in+the+Age+of+Expansion+Elliott+West",
-          "libby_url": "https://share.libbyapp.com/title/9491404",
-          "message": "Available to borrow"
         }
       ]
     }
