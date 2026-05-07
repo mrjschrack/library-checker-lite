@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T16:32:24.869211+00:00",
+  "last_updated": "2026-05-07T16:36:40.161498+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -869,10 +869,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
           "libby_url": "https://share.libbyapp.com/title/9138206",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
@@ -1010,10 +1010,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
           "libby_url": "https://share.libbyapp.com/title/10819488",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
