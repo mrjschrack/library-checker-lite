@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T17:12:10.894908+00:00",
+  "last_updated": "2026-05-25T16:52:37.015192+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -378,10 +378,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
           "libby_url": "https://share.libbyapp.com/title/10916026",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
@@ -760,10 +760,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
           "libby_url": "https://share.libbyapp.com/title/3036539",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -854,10 +854,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1540,10 +1540,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=Trejo+My+Life+of+Crime+Redemption+and+Hollywood+Danny+Trejo",
           "libby_url": "https://share.libbyapp.com/title/5962286",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
