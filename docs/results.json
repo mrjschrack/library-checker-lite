@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T16:52:37.015192+00:00",
+  "last_updated": "2026-05-28T18:09:08.349325+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -175,10 +175,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
           "libby_url": "https://share.libbyapp.com/title/10180805",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -854,10 +854,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1010,10 +1010,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
           "libby_url": "https://share.libbyapp.com/title/10819488",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
