@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T17:40:01.483165+00:00",
+  "last_updated": "2026-06-08T17:57:39.640320+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -1135,7 +1135,7 @@
       ]
     },
     {
-      "title": "Tripped: Nazi Germany, the CIA, and the Dawn of the Psychedelic Age \u2013 The Hidden Origins of MKUltra and the War on Drugs",
+      "title": "Tripped: Nazi Germany, the CIA, and the Dawn of the Psychedelic Age",
       "author": "Norman Ohler",
       "goodreads_id": "6894756580",
       "checks": [
@@ -1143,7 +1143,7 @@
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
           "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1151,7 +1151,7 @@
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
           "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
+          "search_url": "https://denver.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1159,7 +1159,7 @@
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
           "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
+          "search_url": "https://poudre.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1167,7 +1167,7 @@
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
           "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+The+Hidden+Origins+of+MKUltra+and+the+War+on+Drugs+Norman+Ohler",
+          "search_url": "https://marmot.overdrive.com/search?query=Tripped+Nazi+Germany+the+CIA+and+the+Dawn+of+the+Psychedelic+Age+Norman+Ohler",
           "libby_url": null,
           "message": "Result found but status unclear"
         }
