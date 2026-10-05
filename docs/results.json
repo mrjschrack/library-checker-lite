@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T20:10:28.050017+00:00",
+  "last_updated": "2026-10-05T22:01:12.441505+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -50,34 +50,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=City+of+Thieves+David+Benioff",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/611883",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=City+of+Thieves+David+Benioff",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/611883",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=City+of+Thieves+David+Benioff",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/169705",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=City+of+Thieves+David+Benioff",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/611883",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -214,10 +214,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Wrong+Stuff+How+the+Soviet+Space+Program+Crashed+and+Burned+John+Strausbaugh",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10180805",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -292,26 +292,26 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/37703",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/143530",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Benjamin+Franklin+An+American+Life+Walter+Isaacson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/5677803",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -362,34 +362,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/35248",
+          "message": "Available to place hold"
         }
       ]
     },
@@ -401,34 +401,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/11073684",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10916026",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10916026",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10916026",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -479,34 +479,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Tomorrow+and+Tomorrow+and+Tomorrow+Gabrielle+Zevin",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/7349338",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -737,10 +737,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/4975776",
+          "message": "Available to place hold"
         }
       ]
     },
@@ -791,18 +791,18 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/3036539",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/3036539",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -815,10 +815,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/3036539",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -869,34 +869,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/2620831",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -908,34 +908,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Wager+A+Tale+of+Shipwreck+Mutiny+and+Murder+David+Grann",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/9138206",
+          "message": "Available to place hold"
         }
       ]
     },
@@ -947,34 +947,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/434512",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/784834",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/3260223",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Siddhartha+Hermann+Hesse",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/784834",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1033,26 +1033,26 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10819488",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://poudre.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10714431",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+5+Types+of+Wealth+A+Transformative+Guide+to+Design+Your+Dream+Life+Sahil+Bloom",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10819488",
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1259,34 +1259,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/611419",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/590824",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/590824",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Thinking+Fast+and+Slow+Daniel+Kahneman",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/590824",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1306,10 +1306,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10318878",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1322,10 +1322,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/10333634",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1361,10 +1361,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Lessons+of+History+Will+Durant",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/292172",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1400,10 +1400,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=Parasitic+Mind+How+Infectious+Ideas+Are+Killing+Common+Sense+Gad+Saad",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/6008136",
+          "message": "Available to place hold"
         }
       ]
     },
@@ -1478,10 +1478,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=The+Dogs+of+War+Frederick+Forsyth",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/233884",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -1493,34 +1493,34 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/584477",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/584477",
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/349154",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Moonwalking+with+Einstein+The+Art+and+Science+of+Remembering+Everything+Joshua+Foer",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "libby_url": "https://share.libbyapp.com/title/584477",
+          "message": "Available to borrow"
         }
       ]
     },
