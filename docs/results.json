@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T22:01:12.441505+00:00",
+  "last_updated": "2026-10-08T20:12:41.326821+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -417,10 +417,10 @@
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://poudre.overdrive.com/search?query=The+Buffalo+Hunter+Hunter+Stephen+Graham+Jones",
           "libby_url": "https://share.libbyapp.com/title/10916026",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
@@ -737,10 +737,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://marmot.overdrive.com/search?query=Superintelligence+Paths+Dangers+Strategies+Nick+Bostrom",
           "libby_url": "https://share.libbyapp.com/title/4975776",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         }
       ]
     },
@@ -869,10 +869,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://coloradodc.overdrive.com/search?query=The+Hidden+Life+of+Trees+What+They+Feel+How+They+Communicate+Discoveries+from+a+Secret+World+Peter+Wohlleben",
           "libby_url": "https://share.libbyapp.com/title/2620831",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Denver Public Library",
@@ -1322,10 +1322,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10333634",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
