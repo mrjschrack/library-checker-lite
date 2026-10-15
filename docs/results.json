@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T22:34:02.122833+00:00",
+  "last_updated": "2026-10-15T18:34:10.367938+00:00",
   "books_checked": 40,
   "libraries_checked": 4,
   "books": [
@@ -362,10 +362,10 @@
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://coloradodc.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Denver Public Library",
@@ -386,10 +386,10 @@
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://marmot.overdrive.com/search?query=A+Short+History+of+Nearly+Everything+Bill+Bryson",
           "libby_url": "https://share.libbyapp.com/title/35248",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         }
       ]
     },
@@ -668,40 +668,40 @@
     },
     {
       "title": "Hidden Potential: The Science of Achieving Greater Things",
-      "author": "Adam M. Grant",
+      "author": "Adam  Grant",
       "goodreads_id": "7848073287",
       "checks": [
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
           "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+Grant",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "status": "hold",
+          "search_url": "https://denver.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+Grant",
+          "libby_url": "https://share.libbyapp.com/title/9868636",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "status": "hold",
+          "search_url": "https://poudre.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+Grant",
+          "libby_url": "https://share.libbyapp.com/title/9868469",
+          "message": "Available to place hold"
         },
         {
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
-          "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+M+Grant",
-          "libby_url": null,
-          "message": "Result found but status unclear"
+          "status": "available",
+          "search_url": "https://marmot.overdrive.com/search?query=Hidden+Potential+The+Science+of+Achieving+Greater+Things+Adam+Grant",
+          "libby_url": "https://share.libbyapp.com/title/9868469",
+          "message": "Available to borrow"
         }
       ]
     },
@@ -799,10 +799,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "hold",
+          "status": "available",
           "search_url": "https://denver.overdrive.com/search?query=The+Righteous+Mind+Why+Good+People+Are+Divided+by+Politics+and+Religion+Jonathan+Haidt",
           "libby_url": "https://share.libbyapp.com/title/3036539",
-          "message": "Available to place hold"
+          "message": "Available to borrow"
         },
         {
           "library_name": "Poudre Libraries",
@@ -1214,14 +1214,14 @@
     },
     {
       "title": "Think Again: The Power of Knowing What You Don't Know",
-      "author": "Adam M. Grant",
+      "author": "Adam  Grant",
       "goodreads_id": "6833437642",
       "checks": [
         {
           "library_name": "Colorado Digital Consortium",
           "library_base_url": "https://coloradodc.overdrive.com",
           "status": "unknown",
-          "search_url": "https://coloradodc.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "search_url": "https://coloradodc.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+Grant",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1229,7 +1229,7 @@
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
           "status": "unknown",
-          "search_url": "https://denver.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "search_url": "https://denver.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+Grant",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1237,7 +1237,7 @@
           "library_name": "Poudre Libraries",
           "library_base_url": "https://poudre.overdrive.com",
           "status": "unknown",
-          "search_url": "https://poudre.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "search_url": "https://poudre.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+Grant",
           "libby_url": null,
           "message": "Result found but status unclear"
         },
@@ -1245,7 +1245,7 @@
           "library_name": "Marmot Library Network",
           "library_base_url": "https://marmot.overdrive.com",
           "status": "unknown",
-          "search_url": "https://marmot.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+M+Grant",
+          "search_url": "https://marmot.overdrive.com/search?query=Think+Again+The+Power+of+Knowing+What+You+Don+t+Know+Adam+Grant",
           "libby_url": null,
           "message": "Result found but status unclear"
         }
@@ -1306,10 +1306,10 @@
         {
           "library_name": "Denver Public Library",
           "library_base_url": "https://denver.overdrive.com",
-          "status": "available",
+          "status": "hold",
           "search_url": "https://denver.overdrive.com/search?query=The+Book+of+Elsewhere+Keanu+Reeves",
           "libby_url": "https://share.libbyapp.com/title/10318878",
-          "message": "Available to borrow"
+          "message": "Available to place hold"
         },
         {
           "library_name": "Poudre Libraries",
